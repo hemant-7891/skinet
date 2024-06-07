@@ -482,3 +482,8 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+API/skinet.db
+API/skinet.db-shm
+API/skinet.db-wal
+API/skinet.db
+API/skinet.db
